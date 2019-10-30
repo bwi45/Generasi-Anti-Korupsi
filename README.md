@@ -10,7 +10,7 @@ Repositori Generasi Anti Korupsi berisi data-data terkait dengan pencegahan dan 
 # Peraturan
 **Udang-Undang tentang Pemberantasan Korupsi:** 
 + [Undang-Undang No. 30 Tahun 2002 Tentang Komisi Pemberantasan Tindak Pidana Korupsi](http://peraturan.go.id/peraturan/view.html?id=11e44c4ef1a942c0aabd313231373437) 
-+ [Undang-Undang No. 46 Tahun 2009 tentang Pengadilan Tindak Pidana Korupsi] (http://peraturan.go.id/peraturan/view.html?id=11e44c4f1b225d60b12b313231383536)
++ [Undang-Undang No. 46 Tahun 2009 tentang Pengadilan Tindak Pidana Korupsi](http://peraturan.go.id/peraturan/view.html?id=11e44c4f1b225d60b12b313231383536)
 + [Undang-Undang No. 8 Tahun 2010 Tindak Pidana Pencucian Uang](http://peraturan.go.id/peraturan/view.html?id=11e44c4e7044eec0bfc3313231343130)
 + [Undang-Undang Nomor 10 Tahun 2015 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2015 Tentang Perubahan Atas Undang-Undang Nomor 30 Tahun 2002 Tentang Komisi Pemberantasan Tindak Pidana Korupsi Menjadi Undang-Undang](http://peraturan.go.id/peraturan/view.html?id=11e536890c39f8208728313430333134)
 + [Undang-Undang Nomor 19 Tahun 2019 tentang Perubahan Kedua Atas Undang-Undang Nomor 30 Tahun 2002 Tentang Komisi Pemberantasan Tindak Pidana Korupsi](http://peraturan.go.id/peraturan/view.html?id=13a18307ae13fdbb4bd66e3505f2f7bf)
