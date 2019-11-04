@@ -25,6 +25,7 @@ Repositori Generasi Anti Korupsi berisi data-data terkait dengan pencegahan dan 
 + [Komisi Pemberantasan Korupsi (KPK)](https://www.kpk.go.id)
 + [Direktorat Tipidkor - Direktorat Bareskrim - Kepolisian Negara Republik Indonesia](https://tipidkorpolri.info/)
 + [Jaksa Muda Tindak Pidana Khusus - Kejaksaan Republik Indonesia](https://www.kejaksaan.go.id/unit_kejaksaan.php?idu=24)
+
 <ins>**Pengawasan**</ins>
 + [Pusat Pelaporan dan Analisis Transaksi Keuangan (PPATK)](http://www.ppatk.go.id/)
 + [Badan Pemeriksa Keuangan (BPK)](https://www.bpk.go.id/)
