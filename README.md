@@ -33,3 +33,8 @@ Repositori Generasi Anti Korupsi berisi data-data terkait dengan pencegahan dan 
 + [KPK Whistleblower Ssystem - kpk.go.id](https://kws.kpk.go.id)
 + [Laporkan! - tipidkorpolri.info](https://laporan.tipidkorpolri.info/)
 + **Lapor Korupsi Dapat Duit Rp 200 juta!** - [Peraturan Pemerintah Nomor 43 Tahun 2018 tentang Tata Cara Pelaksanaan Tugas dan Tanggung Jawab dalam Tindak Pidana Korupsi](http://peraturan.go.id/peraturan/view.html?id=11e8d37f0e898abea44b313631323039)
+
+# Data Skandal Korupsi Setelah Reformasi
++ [**BLBI** Bantuan Likuiditas Bank Indonesia (Desember **1998**): Kerugian Negara **Rp 138 Triliun**](https://id.wikipedia.org/wiki/Bantuan_Likuiditas_Bank_Indonesia)
++ [**Century** Aliran Dana Lembaga Penjamin Simpanan pada Bank Century (November **2009**): : Kerugian Negara **Rp 7,4 Triliun**](https://id.wikipedia.org/wiki/Aliran_Dana_Lembaga_Penjamin_Simpanan_pada_Bank_Century)
++ [**e-KTP** Kartu Tanda Penduduk Elektronik (**2012**): Kerugian Negara **Rp 2,314 Triliun**](https://id.wikipedia.org/wiki/Kasus_korupsi_e-KTP)
