@@ -40,11 +40,27 @@ Repositori Generasi Anti Korupsi berisi data-data terkait dengan pencegahan dan 
 + [Badan Pengawasan Keuangan dan Pembangunan (BPKP)](http://www.bpkp.go.id/)
 
 <ins>**Pengawasan Independen**</ins>
-+ [Indonesia Corruption Watch (ICW)](https://antikorupsi.org/) | [Sahabat ICW](https://sahabaticw.org/)
++ [Anti-Corruption Clearing House (ACCH) / Portal Web Anti-korupsi - KPK](https://acch.kpk.go.id/id/)
++ [Anti-Corruption Learning Center (ACLC) / Pusat Edukasi Anti-korupsi - KPK](https://aclc.kpk.go.id/)
++ [Laporan Harta Kekayaan Penyelenggara Negara (LHKPN) - KPK](https://elhkpn.kpk.go.id/portal/user/login#)
 + [Transparancy International Indonesia (TII)](https://ti.or.id/)
 
 <ins>**Pengawasan International**</ins>
-+ [Transparancy International](https://www.transparency.org/) | [Wiki](https://en.wikipedia.org/wiki/Transparency_International)
++ [United Against Corruption - UN](http://www.anticorruptionday.org/)
++ [Anti-Corruption Authorities (ACAs) - World Bank](https://www.acauthorities.org/)
++ [Transparancy International](https://www.transparency.org/) | [Wiki](https://en.wikipedia.org/wiki/Transparency_International) | [Transparency School](https://transparencyschool.org/)
++ [European Partners against Corruption (EPAC) and European contact-point network against corruption (EACN)](https://www.epac-eacn.org/)
+
+<ins>**Pengawasan dari Lembaga Swadaya Masyarakat (LSM)**</ins>
++ [Indonesia Corruption Watch (ICW)](https://antikorupsi.org/)
++ [Sahabat ICW](https://sahabaticw.org/)
++ [Lembaga Pendidikan Masyarakat Anti Korupsi (LPMAK)](https://www.google.com/maps/dir/Monumen+Nasional,+Gambir,+Kecamatan+Gambir,+Kota+Jakarta+Pusat,+Daerah+Khusus+Ibukota+Jakarta/Lembaga+Pendidikan+Masyarakat+Anti+Korupsi/@-6.1728791,106.8303327,14z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x2e69f5d2e764b12d:0x3d2ad6e1e0e9bcc8!2m2!1d106.8271528!2d-6.1753924!1m5!1m1!1s0x2e69f508c14087e7:0x4d471449756fe96e!2m2!1d106.8697536!2d-6.1632329?hl=id)
++ [Masyarakat Anti Korupsi Seluruh Indonesia (MAKSI)](https://www.google.com/maps/dir/Monumen+Nasional,+Gambir,+Kecamatan+Gambir,+Kota+Jakarta+Pusat,+Daerah+Khusus+Ibukota+Jakarta/MAKSI+(Masyarakat+Anti+Korupsi+Seluruh+Indonesia),+Jalan+Musyawarah,+Serua,+Kota+Tangerang+Selatan,+Banten/@-6.2424939,106.6885795,12z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x2e69f5d2e764b12d:0x3d2ad6e1e0e9bcc8!2m2!1d106.8271528!2d-6.1753924!1m5!1m1!1s0x2e69e55a86207b07:0xec860175338accff!2m2!1d106.7143235!2d-6.3135692?hl=id)
+
+<ins>**Pusat Riset Anti Korupsi**</ins>
++ [Pusat Kajian Anti Korupsi - Fakultas Hukum - UGM](http://pukatkorupsi.ugm.ac.id/)
++ [Pusat Studi Anti Korupsi dan Kebijakan Hukum - Fakultas Hukum - Unair](http://fh.unair.ac.id/in/riset-dan-kerjasama/pusat-studi-anti-korupsi-dan-kebijakan-hukum/)
++ [Pusat Kajian Anti Korupsi - Fakultas Hukum - UB](https://lppm.ub.ac.id/pusat-studi/)
 
 ## Layanan Pengaduan
 + [LAPOR! - lapor.go.id](https://www.lapor.go.id)
@@ -52,7 +68,7 @@ Repositori Generasi Anti Korupsi berisi data-data terkait dengan pencegahan dan 
 + [Laporkan! - tipidkorpolri.info](https://laporan.tipidkorpolri.info/)
 + **Lapor Korupsi Dapat Duit Rp 200 juta!** - [Peraturan Pemerintah Nomor 43 Tahun 2018 tentang Tata Cara Pelaksanaan Tugas dan Tanggung Jawab dalam Tindak Pidana Korupsi](http://peraturan.go.id/peraturan/view.html?id=11e8d37f0e898abea44b313631323039)
 
-## Indikator Keberhasilan Korupsi
+## Indikator Keberhasilan Pemberantasan Korupsi
 + [Global Corruption Barometer - TI](https://www.transparency.org/research/gcb): [2019](https://www.transparency.org/research/gcb/global_corruption_barometer_2019) | [2017](http://files.transparency.org/content/download/2161/13659/file/GCB%20Citizens%20voices_FINAL.pdf)
 + [Corruption Perceptions Index TI](https://www.transparency.org/research/cpi/overview): [2018](https://www.transparency.org/files/content/pages/2018_CPI_FullResults.zip) | [2017](https://files.transparency.org/content/download/2186/13760/file/CPI%202017%20global%20map%20and%20country%20results.pdf)
 + [Survei Penilaian Integritas - KPK](https://www.kpk.go.id/id/layanan-publik/informasi-publik/data-informasi-publik): [2018](https://www.kpk.go.id/images/01/Laporan-Ilmiah-Gabungan-SPI-2018---Indonesia.pdf) | [2017](https://www.kpk.go.id/images/pdf/Penyampaian-Hasil-SPI-2017.pdf)
