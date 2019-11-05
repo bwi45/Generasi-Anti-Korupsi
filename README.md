@@ -4,10 +4,10 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/Banyuwangi45/Generasi-Anti-Korupsi)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat&logo=linkedin&colorB=555)](https://www.linkedin.com/company/14702071)
 
-# Generasi Anti Korupsi
+## Generasi Anti Korupsi
 Repositori Generasi Anti Korupsi berisi data-data terkait dengan pencegahan dan pemberantasan korupsi di Indonesia.
 
-# Peraturan Terkait Pemberantasan Korupsi
+## Peraturan Terkait Pemberantasan Korupsi
 <ins>**Udang-Undang tentang Pemberantasan Korupsi:**</ins> 
 + [Undang-Undang No. 30 Tahun 2002 Tentang Komisi Pemberantasan Tindak Pidana Korupsi](http://peraturan.go.id/peraturan/view.html?id=11e44c4ef1a942c0aabd313231373437) 
 + [Undang-Undang No. 46 Tahun 2009 tentang Pengadilan Tindak Pidana Korupsi](http://peraturan.go.id/peraturan/view.html?id=11e44c4f1b225d60b12b313231383536)
@@ -20,7 +20,7 @@ Repositori Generasi Anti Korupsi berisi data-data terkait dengan pencegahan dan 
 + [Peraturan Pemerintah No. 63 Tahun 2005 tentang Sistem Manajemen Sumber Daya Manusia KPK](https://www.kpk.go.id/images/pdf/Undang-undang/pp632005.pdf)
 + [Peraturan Pemerintah No. 103 Tahun 2012 tentang Perubahan Atas Peraturan Pemerintah No. 63 Tahun 2005 Tentang Sistem Manajemen Sumber Daya Manusia KPK](https://www.kpk.go.id/images/pdf/Undang-undang/pp%20103%20tahun%202012.pdf)
 
-# Institusi Pengawasan dan Penindakan Korupsi
+## Institusi Pengawasan dan Penindakan Korupsi
 <ins>**Penindakan**</ins>
 + [Komisi Pemberantasan Korupsi (KPK)](https://www.kpk.go.id)
 + [Direktorat Tipidkor - Direktorat Bareskrim - Kepolisian Negara Republik Indonesia](https://tipidkorpolri.info/)
@@ -31,13 +31,13 @@ Repositori Generasi Anti Korupsi berisi data-data terkait dengan pencegahan dan 
 + [Badan Pemeriksa Keuangan (BPK)](https://www.bpk.go.id/)
 + [Badan Pengawasan Keuangan dan Pembangunan (BPKP)](http://www.bpkp.go.id/)
 
-# Layanan Pengaduan
+## Layanan Pengaduan
 + [LAPOR! - lapor.go.id](https://www.lapor.go.id)
 + [KPK Whistleblower Ssystem - kpk.go.id](https://kws.kpk.go.id)
 + [Laporkan! - tipidkorpolri.info](https://laporan.tipidkorpolri.info/)
 + **Lapor Korupsi Dapat Duit Rp 200 juta!** - [Peraturan Pemerintah Nomor 43 Tahun 2018 tentang Tata Cara Pelaksanaan Tugas dan Tanggung Jawab dalam Tindak Pidana Korupsi](http://peraturan.go.id/peraturan/view.html?id=11e8d37f0e898abea44b313631323039)
 
-# Data Skandal Korupsi di Indonesia (> 1 Triliun)
+## Data Skandal Korupsi di Indonesia (> 1 Triliun)
 Disusun dan diurutkan berdasarkan tanggal dan tahun mulai terungkapnya korupsi.
 + [=**Soeharto**= Kasus dugaan korupsi Soeharto (16 Mei **1974**)](https://id.wikipedia.org/wiki/Kasus_dugaan_korupsi_Soeharto): Kerugian Negara **Rp 490 Triliun** ([Transparency International, 2004](https://issuu.com/transparencyinternational/docs/2004_gcr_politicalcorruption_en?mode=window&backgroundColor=%23222222))
 + [=**BLBI**= Bantuan Likuiditas Bank Indonesia (Desember **1998**)](https://id.wikipedia.org/wiki/Bantuan_Likuiditas_Bank_Indonesia): Kerugian Negara **Rp 138 Triliun**
