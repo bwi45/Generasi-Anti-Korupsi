@@ -51,9 +51,9 @@ Repositori Generasi Anti Korupsi berisi data-data terkait dengan pencegahan dan 
 + **Lapor Korupsi Dapat Duit Rp 200 juta!** - [Peraturan Pemerintah Nomor 43 Tahun 2018 tentang Tata Cara Pelaksanaan Tugas dan Tanggung Jawab dalam Tindak Pidana Korupsi](http://peraturan.go.id/peraturan/view.html?id=11e8d37f0e898abea44b313631323039)
 
 ## Indikator Keberhasilan Korupsi
-+ [Global Corruption Barometer - TI](https://www.transparency.org/research/gcb) | [Wiki](https://en.wikipedia.org/wiki/Global_Corruption_Barometer)
-+ [Corruption Perceptions Index TI](https://www.transparency.org/research/cpi/overview) | [Wiki](https://en.wikipedia.org/wiki/Corruption_Perceptions_Index)
-+ [Survei Penilaian Integritas - KPK](https://www.kpk.go.id/id/layanan-publik/informasi-publik/data-informasi-publik)
++ [Global Corruption Barometer - TI](https://www.transparency.org/research/gcb): [2019](https://www.transparency.org/research/gcb/global_corruption_barometer_2019) | [2017](http://files.transparency.org/content/download/2161/13659/file/GCB%20Citizens%20voices_FINAL.pdf)
++ [Corruption Perceptions Index TI](https://www.transparency.org/research/cpi/overview): [2018](https://www.transparency.org/files/content/pages/2018_CPI_FullResults.zip) | [2017](https://files.transparency.org/content/download/2186/13760/file/CPI%202017%20global%20map%20and%20country%20results.pdf)
++ [Survei Penilaian Integritas - KPK](https://www.kpk.go.id/id/layanan-publik/informasi-publik/data-informasi-publik): [2018](https://www.kpk.go.id/images/01/Laporan-Ilmiah-Gabungan-SPI-2018---Indonesia.pdf) | [2017](https://www.kpk.go.id/images/pdf/Penyampaian-Hasil-SPI-2017.pdf)
 
 ## Data Skandal Korupsi di Indonesia
 Disusun dan diurutkan berdasarkan tanggal dan tahun mulai terungkapnya korupsi.
