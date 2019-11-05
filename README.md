@@ -37,10 +37,16 @@ Repositori Generasi Anti Korupsi berisi data-data terkait dengan pencegahan dan 
 + [Laporkan! - tipidkorpolri.info](https://laporan.tipidkorpolri.info/)
 + **Lapor Korupsi Dapat Duit Rp 200 juta!** - [Peraturan Pemerintah Nomor 43 Tahun 2018 tentang Tata Cara Pelaksanaan Tugas dan Tanggung Jawab dalam Tindak Pidana Korupsi](http://peraturan.go.id/peraturan/view.html?id=11e8d37f0e898abea44b313631323039)
 
-## Data Skandal Korupsi di Indonesia (> 1 Triliun)
+## Data Skandal Korupsi di Indonesia
 Disusun dan diurutkan berdasarkan tanggal dan tahun mulai terungkapnya korupsi.
+
+<ins>**Korupsi diatas 1 Triliun**</ins>
 + [=**Soeharto**= Kasus dugaan korupsi Soeharto (16 Mei **1974**)](https://id.wikipedia.org/wiki/Kasus_dugaan_korupsi_Soeharto): Kerugian Negara **Rp 490 Triliun** ([Transparency International, 2004](https://issuu.com/transparencyinternational/docs/2004_gcr_politicalcorruption_en?mode=window&backgroundColor=%23222222))
 + [=**BLBI**= Bantuan Likuiditas Bank Indonesia (Desember **1998**)](https://id.wikipedia.org/wiki/Bantuan_Likuiditas_Bank_Indonesia): Kerugian Negara **Rp 138 Triliun**
 + [=**Century**= Aliran Dana Lembaga Penjamin Simpanan pada Bank Century (November **2009**)](https://id.wikipedia.org/wiki/Aliran_Dana_Lembaga_Penjamin_Simpanan_pada_Bank_Century): Kerugian Negara **Rp 7,4 Triliun**
 + [=**e-KTP**= Kartu Tanda Penduduk Elektronik (**2012**)](https://id.wikipedia.org/wiki/Kasus_korupsi_e-KTP): Kerugian Negara **Rp 2,314 Triliun**
-+ [=**Kotawaringin Timur**= Ijin Usaha Tambang di Kotawaringin Timur (**2019**)](https://www.cnnindonesia.com/nasional/20190207072914-12-367023/jejak-suap-bupati-kotim-yang-rugikan-negara-rp58-triliun): Kerugian Negara **Rp 5,8 Triliun**
++ [=**Kotawaringin Timur**= Ijin Usaha Tambang di Kotawaringin Timur (**2019**)](https://www.cnnindonesia.com/nasional/20190207072914-12-367023/jejak-suap-bupati-kotim-yang-rugikan-negara-rp58-triliun): Kerugian Negara **Rp 5,8 Triliun dan 711 ribu dolar US**
+
+<ins>**Korupsi diatas 100 Milyar**</ins>
++ [=**Simulator SIM**= Pengadaan Simulator Surat Izin Mengemudi Korlantas Polri (**2011**)](https://www.tempo.co/tag/korupsi-simulator-sim): Kerugian Negara **Rp 121 Milyar**
++ [=**Hambalang**= Pembangunan Pusat Olahraga Hambalang (**2012**)](https://news.detik.com/berita/d-1928176/kronologi-proyek-hambalang-dari-tahun-ke-tahun-): Kerugian Negara **Rp 464 Milyar**
