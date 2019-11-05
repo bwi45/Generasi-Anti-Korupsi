@@ -7,9 +7,11 @@
 ## Generasi Anti Korupsi
 Repositori Generasi Anti Korupsi berisi data-data terkait dengan pencegahan dan pemberantasan korupsi di Indonesia.
 
-<a Corruption Perceptions Index 2018 href="https://www.transparency.org/cpi2018">
-  <img src="https://github.com/Banyuwangi45/Generasi-Anti-Korupsi/blob/master/Corruption_Perception_index_2018.png" width="100%">
-</a>
+[Corruption Perceptions Index 2018](https://www.transparency.org/cpi2018): Semakin rendah nilainya maka semakin tinggi korupsinya.
+
+<p align="center"> 
+  <img src="https://github.com/Banyuwangi45/Generasi-Anti-Korupsi/blob/master/Corruption_Perception_index_2018.png" width="100%" href="https://www.transparency.org/cpi2018">
+</p>
 
 ## Peraturan Terkait Pemberantasan Korupsi
 <ins>**Udang-Undang tentang Pemberantasan Korupsi:**</ins> 
