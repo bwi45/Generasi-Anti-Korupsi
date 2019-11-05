@@ -8,7 +8,7 @@
 Repositori Generasi Anti Korupsi berisi data-data terkait dengan pencegahan dan pemberantasan korupsi di Indonesia.
 
 <a Corruption Perceptions Index, 2018 href="https://www.transparency.org/cpi2018">
-  <img src="https://en.wikipedia.org/wiki/Corruption_Perceptions_Index#/media/File:Corruption_Perception_index_2018.svg" width="100%">
+  <img src="https://github.com/Banyuwangi45/Generasi-Anti-Korupsi/blob/master/Corruption_Perception_index_2018.png" width="100%">
 </a>
 
 ## Peraturan Terkait Pemberantasan Korupsi
@@ -69,5 +69,5 @@ Disusun dan diurutkan berdasarkan tanggal dan tahun mulai terungkapnya korupsi.
 
 <ins>**Kasus Korupsi Besar Belum Dituntaskan**</ins>
 
-Rolls Royce - PT Garuda Indonesia | Innospec - Pertamina | Deputi Gubernur BI | Sistem Komunikasi Radio Terpadu - Kementrian Kehutanan | Hibah Kereta Api Jepang - Kementerian Perhubungan | Pengadaan Alat Kesehatan - Kementerian Kesehatan | Kasus Pelindo II | dll.
+Rolls Royce - PT Garuda Indonesia | Innospec - Pertamina | Deputi Gubernur BI | Sistem Komunikasi Radio Terpadu - Kementrian Kehutanan | Hibah Kereta Api Jepang - Kementerian Perhubungan | Pengadaan Alat Kesehatan - Kementerian Kesehatan | Dirut Pelindo II RJ Lino | Kasus TPPU Tubagus Chaeri Wardana | dll.
 
