@@ -11,8 +11,6 @@ Repositori Generasi Anti Korupsi berisi data-data terkait dengan pencegahan dan 
   <img src="https://en.wikipedia.org/wiki/Corruption_Perceptions_Index#/media/File:Corruption_Perception_index_2018.svg" width="100%">
 </a>
 
-<div class="cpi-node" data-embed="map"></div><script src=""></script>
-
 ## Peraturan Terkait Pemberantasan Korupsi
 <ins>**Udang-Undang tentang Pemberantasan Korupsi:**</ins> 
 + [Undang-Undang No. 30 Tahun 2002 Tentang Komisi Pemberantasan Tindak Pidana Korupsi](http://peraturan.go.id/peraturan/view.html?id=11e44c4ef1a942c0aabd313231373437) 
