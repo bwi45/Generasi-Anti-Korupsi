@@ -7,7 +7,11 @@
 ## Generasi Anti Korupsi
 Repositori Generasi Anti Korupsi berisi data-data terkait dengan pencegahan dan pemberantasan korupsi di Indonesia.
 
-<div class="cpi-node" data-embed="map"></div><script src="https://www.transparency.org/assets/scripts/cpi2018/embed.js"></script>
+<a Corruption Perceptions Index, 2018 href="https://www.transparency.org/cpi2018">
+  <img src="https://en.wikipedia.org/wiki/Corruption_Perceptions_Index#/media/File:Corruption_Perception_index_2018.svg" width="100%">
+</a>
+
+<div class="cpi-node" data-embed="map"></div><script src=""></script>
 
 ## Peraturan Terkait Pemberantasan Korupsi
 <ins>**Udang-Undang tentang Pemberantasan Korupsi:**</ins> 
@@ -66,5 +70,6 @@ Disusun dan diurutkan berdasarkan tanggal dan tahun mulai terungkapnya korupsi.
 + [=**Hambalang**= Pembangunan Pusat Olahraga Hambalang (**2012**)](https://news.detik.com/berita/d-1928176/kronologi-proyek-hambalang-dari-tahun-ke-tahun-): Kerugian Negara **Rp 700 Milyar**
 
 <ins>**Kasus Korupsi Besar Belum Dituntaskan**</ins>
-Rolls Royce - PT Garuda Indonesia | Innospec - Pertamina | Deputi Gubernur BI | Sistem Komunikasi Radio Terpadu - Kementrian Kehutanan | Hibah Kereta Api Jepang - Kementerian Perhubungan | Pengadaan Alat Kesehatan - Kementerian Kesehatan | Kasus Pelindo II.
+
+Rolls Royce - PT Garuda Indonesia | Innospec - Pertamina | Deputi Gubernur BI | Sistem Komunikasi Radio Terpadu - Kementrian Kehutanan | Hibah Kereta Api Jepang - Kementerian Perhubungan | Pengadaan Alat Kesehatan - Kementerian Kesehatan | Kasus Pelindo II | dll.
 
