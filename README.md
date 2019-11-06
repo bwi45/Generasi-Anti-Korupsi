@@ -58,9 +58,7 @@ Repositori Generasi Anti Korupsi berisi data-data terkait dengan pencegahan dan 
 + [Masyarakat Anti Korupsi Seluruh Indonesia (MAKSI)](https://www.google.com/maps/dir/Monumen+Nasional,+Gambir,+Kecamatan+Gambir,+Kota+Jakarta+Pusat,+Daerah+Khusus+Ibukota+Jakarta/MAKSI+(Masyarakat+Anti+Korupsi+Seluruh+Indonesia),+Jalan+Musyawarah,+Serua,+Kota+Tangerang+Selatan,+Banten/@-6.2424939,106.6885795,12z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x2e69f5d2e764b12d:0x3d2ad6e1e0e9bcc8!2m2!1d106.8271528!2d-6.1753924!1m5!1m1!1s0x2e69e55a86207b07:0xec860175338accff!2m2!1d106.7143235!2d-6.3135692?hl=id)
 
 <ins>**Pusat Riset Anti Korupsi**</ins>
-+ [Pusat Kajian Anti Korupsi - Fakultas Hukum - UGM](http://pukatkorupsi.ugm.ac.id/)
-+ [Pusat Studi Anti Korupsi dan Kebijakan Hukum - Fakultas Hukum - Unair](http://fh.unair.ac.id/in/riset-dan-kerjasama/pusat-studi-anti-korupsi-dan-kebijakan-hukum/)
-+ [Pusat Kajian Anti Korupsi - Fakultas Hukum - UB](https://lppm.ub.ac.id/pusat-studi/)
+[Pusat Kajian Anti Korupsi - Fakultas Hukum - UGM](http://pukatkorupsi.ugm.ac.id/) | [Pusat Kajian Anti Korupsi - Fakultas Ilmu Administrasi - UB](https://fia.ub.ac.id/pkak/profil/sejarah) | [Pusat Studi Transparansi Publik dan Anti-Korupsi - Universitas Sebelas Maret Surakarta](https://pustapako.lppm.uns.ac.id/) | [Pusat Studi Anti Korupsi dan Kebijakan Hukum - Fakultas Hukum - Unair](http://fh.unair.ac.id/in/riset-dan-kerjasama/pusat-studi-anti-korupsi-dan-kebijakan-hukum/) | [Pusat Kajian Anti Korupsi - Universitas Islam Bandung](https://lppm.unisba.ac.id/pusat-kajian-anti-korupsi-pkak/)
 
 ## Layanan Pengaduan
 + [LAPOR! - lapor.go.id](https://www.lapor.go.id)
