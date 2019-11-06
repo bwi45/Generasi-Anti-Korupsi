@@ -90,5 +90,6 @@ Disusun dan diurutkan berdasarkan tanggal dan tahun mulai terungkapnya korupsi.
 
 <ins>**Kasus Korupsi Besar Lainnya**</ins>
 + [=**Pelindo II**= Pengadaan Quay Container Crane (QCC) di Pelindo II (15 Desember **2015**)](https://tirto.id/selidiki-kasus-korupsi-rj-lino-setelah-3-tahun-kpk-kami-hati-hati-eduJ): Kerugian Negara **Rp 50 Milyar**
-Deputi Gubernur BI | Sistem Komunikasi Radio Terpadu - Kementrian Kehutanan | Hibah Kereta Api Jepang - Kementerian Perhubungan | Pengadaan Alat Kesehatan - Kementerian Kesehatan |  | Kasus TPPU Tubagus Chaeri Wardana | dll.
+
+Deputi Gubernur BI | Sistem Komunikasi Radio Terpadu - Kementrian Kehutanan | Hibah Kereta Api Jepang - Kementerian Perhubungan | Pengadaan Alat Kesehatan - Kementerian Kesehatan | Kasus TPPU Tubagus Chaeri Wardana | dll.
 
