@@ -37,6 +37,15 @@ Repositori Generasi Anti Korupsi berisi data-data terkait dengan pencegahan dan 
 <ins>**Pengawasan dari Lembaga Negara**</ins>
 + [Pusat Pelaporan dan Analisis Transaksi Keuangan (PPATK)](http://www.ppatk.go.id/)
 + [Badan Pemeriksa Keuangan (BPK)](https://www.bpk.go.id/)
+  + **Sumatera:** [Aceh](https://bandaaceh.bpk.go.id/) | [North Sumatra](https://medan.bpk.go.id/) | [West Sumatra](https://padang.bpk.go.id/) | [Riau](https://pekanbaru.bpk.go.id/) | [Riau Islands](https://tanjungpinang.bpk.go.id/) | [Jambi](https://jambi.bpk.go.id/) | [Bengkulu](https://bengkulu.bpk.go.id/) | [South Sumatra](https://palembang.bpk.go.id/) | [Bangka Belitung Islands](https://pangkalpinang.bpk.go.id/) | [Lampung](https://bandarlampung.bpk.go.id/)
+  + **Java:** [Banten](https://banten.bpk.go.id/) | [D.K.I. Jakarta](https://jakarta.bpk.go.id/) | [West Java](https://bandung.bpk.go.id/) | [Center Java](https://semarang.bpk.go.id/) | [D.I. Yogyakarta](https://yogyakarta.bpk.go.id/) | [East Java](https://surabaya.bpk.go.id/)
+  + **Kalimantan:** [West Kalimantan](https://pontianak.bpk.go.id/) | [Center Kalimantan](https://palangkaraya.bpk.go.id/) | [South Kalimantan](https://banjarmasin.bpk.go.id/) | [East Kalimantan](https://samarinda.bpk.go.id/) | [North Kalimantan](https://tarakan.bpk.go.id/)
+  + **Sulawesi:** [South Sulawesi](https://makassar.bpk.go.id/) | [Center Sulawesi](https://palu.bpk.go.id/) | [Southeasth Sulawesi](https://kendari.bpk.go.id/) | [Gorontalo](https://gorontalo.bpk.go.id/) | [North Sulawesi](https://manado.bpk.go.id/)
+  + **Maluku:** [Maluku](https://ambon.bpk.go.id/) | [North Maluku](https://ternate.bpk.go.id/)
+  + **Bali:** [Bali](https://denpasar.bpk.go.id/)
+  + **Nusa Tenggara:** [East Nusa Tenggara](https://kupang.bpk.go.id/) | [West Nusa Tenggara](https://mataram.bpk.go.id/)
+  + **Papua:** [Papua](https://jayapura.bpk.go.id/) | [West Papua](https://manokwari.bpk.go.id/)
+
 + [Badan Pengawasan Keuangan dan Pembangunan (BPKP)](http://www.bpkp.go.id/)
 
 <ins>**Pengawasan Independen**</ins>
