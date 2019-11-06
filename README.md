@@ -45,7 +45,7 @@ Repositori Generasi Anti Korupsi berisi data-data terkait dengan pencegahan dan 
 + [Laporan Harta Kekayaan Penyelenggara Negara (LHKPN) - KPK](https://elhkpn.kpk.go.id/portal/user/login#)
 + [Transparancy International Indonesia (TII)](https://ti.or.id/)
 
-<ins>**Pengawasan International**</ins>
+<ins>**Pengawasan Internasional**</ins>
 + [United Against Corruption - UN](http://www.anticorruptionday.org/)
 + [Anti-Corruption Authorities (ACAs) - World Bank](https://www.acauthorities.org/)
 + [Transparancy International](https://www.transparency.org/) | [Wiki](https://en.wikipedia.org/wiki/Transparency_International) | [Transparency School](https://transparencyschool.org/)
@@ -64,7 +64,7 @@ Repositori Generasi Anti Korupsi berisi data-data terkait dengan pencegahan dan 
 
 ## Layanan Pengaduan
 + [LAPOR! - lapor.go.id](https://www.lapor.go.id)
-+ [KPK Whistleblower Ssystem - kpk.go.id](https://kws.kpk.go.id)
++ [KPK Whistleblower System - kpk.go.id](https://kws.kpk.go.id)
 + [Laporkan! - tipidkorpolri.info](https://laporan.tipidkorpolri.info/)
 + **Lapor Korupsi Dapat Duit Rp 200 juta!** - [Peraturan Pemerintah Nomor 43 Tahun 2018 tentang Tata Cara Pelaksanaan Tugas dan Tanggung Jawab dalam Tindak Pidana Korupsi](http://peraturan.go.id/peraturan/view.html?id=11e8d37f0e898abea44b313631323039)
 
@@ -85,9 +85,10 @@ Disusun dan diurutkan berdasarkan tanggal dan tahun mulai terungkapnya korupsi.
 
 <ins>**Korupsi diatas 100 Milyar**</ins>
 + [=**Simulator SIM**= Pengadaan Simulator Surat Izin Mengemudi Korlantas Polri (**2011**)](https://www.tempo.co/tag/korupsi-simulator-sim): Kerugian Negara **Rp 121 Milyar**
++ [=**Rolls-Royce - Garuda Indonesia**= Pengadaan Pesawat dan Mesin Pesawat dari Airbus S.A.S dan Rolls-Royce P.L.C pada PT Garuda Indonesia (**2011**)](https://www.law-justice.co/artikel/68841/pusaran-suap-rolls-royce-di-garuda/): Kerugian Negara **Rp 630 Milyar**
 + [=**Hambalang**= Pembangunan Pusat Olahraga Hambalang (**2012**)](https://news.detik.com/berita/d-1928176/kronologi-proyek-hambalang-dari-tahun-ke-tahun-): Kerugian Negara **Rp 700 Milyar**
 
-<ins>**Kasus Korupsi Besar Belum Dituntaskan**</ins>
-
-Rolls Royce - PT Garuda Indonesia | Innospec - Pertamina | Deputi Gubernur BI | Sistem Komunikasi Radio Terpadu - Kementrian Kehutanan | Hibah Kereta Api Jepang - Kementerian Perhubungan | Pengadaan Alat Kesehatan - Kementerian Kesehatan | Dirut Pelindo II RJ Lino | Kasus TPPU Tubagus Chaeri Wardana | dll.
+<ins>**Kasus Korupsi Besar Lainnya**</ins>
++ [=**Pelindo II**= Pengadaan Quay Container Crane (QCC) di Pelindo II (15 Desember **2015**)](https://tirto.id/selidiki-kasus-korupsi-rj-lino-setelah-3-tahun-kpk-kami-hati-hati-eduJ): Kerugian Negara **Rp 50 Milyar**
+Deputi Gubernur BI | Sistem Komunikasi Radio Terpadu - Kementrian Kehutanan | Hibah Kereta Api Jepang - Kementerian Perhubungan | Pengadaan Alat Kesehatan - Kementerian Kesehatan |  | Kasus TPPU Tubagus Chaeri Wardana | dll.
 
