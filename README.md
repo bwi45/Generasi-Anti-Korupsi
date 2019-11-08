@@ -74,6 +74,7 @@ Repositori Generasi Anti Korupsi berisi data-data terkait dengan pencegahan dan 
 + [LAPOR! - lapor.go.id](https://www.lapor.go.id)
 + [KPK Whistleblower System - kpk.go.id](https://kws.kpk.go.id)
 + [Laporkan! - tipidkorpolri.info](https://laporan.tipidkorpolri.info/)
++ [Whistleblowing System - LKPP](http://wbs.inaproc.id/)
 + **Lapor Korupsi Dapat Duit Rp 200 juta!** - [Peraturan Pemerintah Nomor 43 Tahun 2018 tentang Tata Cara Pelaksanaan Tugas dan Tanggung Jawab dalam Tindak Pidana Korupsi](http://peraturan.go.id/peraturan/view.html?id=11e8d37f0e898abea44b313631323039)
 
 ## Indikator Keberhasilan Pemberantasan Korupsi
