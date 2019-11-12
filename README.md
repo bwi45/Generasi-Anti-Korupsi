@@ -47,6 +47,7 @@ Repositori Generasi Anti Korupsi berisi data-data terkait dengan pencegahan dan 
   + **Papua:** [Papua](https://jayapura.bpk.go.id/) | [West Papua](https://manokwari.bpk.go.id/)
 
 + [Badan Pengawasan Keuangan dan Pembangunan (BPKP)](http://www.bpkp.go.id/)
++ [Ombudsman Republik Indonesia](https://ombudsman.go.id/)
 
 <ins>**Pengawasan Independen**</ins>
 + [Anti-Corruption Clearing House (ACCH) / Portal Web Anti-korupsi - KPK](https://acch.kpk.go.id/id/)
@@ -74,6 +75,7 @@ Repositori Generasi Anti Korupsi berisi data-data terkait dengan pencegahan dan 
 + [LAPOR! - lapor.go.id](https://www.lapor.go.id)
 + [KPK Whistleblower System - kpk.go.id](https://kws.kpk.go.id)
 + [Laporkan! - tipidkorpolri.info](https://laporan.tipidkorpolri.info/)
++ [Pengaduan Ombudsman](https://ombudsman.go.id/pengaduan)
 + [Whistleblowing System - Kementrain BUMN](http://wbs.bumn.go.id/)
 + [Whistleblowing System - LKPP](http://wbs.inaproc.id/)
 + **Lapor Korupsi Dapat Duit Rp 200 juta!** - [Peraturan Pemerintah Nomor 43 Tahun 2018 tentang Tata Cara Pelaksanaan Tugas dan Tanggung Jawab dalam Tindak Pidana Korupsi](http://peraturan.go.id/peraturan/view.html?id=11e8d37f0e898abea44b313631323039)
