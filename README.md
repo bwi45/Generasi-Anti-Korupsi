@@ -94,7 +94,7 @@ Disusun dan diurutkan berdasarkan tanggal dan tahun mulai terungkapnya korupsi.
 + [=**Century**= Aliran Dana Lembaga Penjamin Simpanan pada Bank Century (November **2009**)](https://id.wikipedia.org/wiki/Aliran_Dana_Lembaga_Penjamin_Simpanan_pada_Bank_Century): Kerugian Negara **Rp 7,4 Triliun**
 + [=**e-KTP**= Kartu Tanda Penduduk Elektronik (**2012**)](https://id.wikipedia.org/wiki/Kasus_korupsi_e-KTP): Kerugian Negara **Rp 2,3 Triliun**
 + [=**Kotawaringin Timur**= Ijin Usaha Tambang di Kotawaringin Timur (**2019**)](https://www.cnnindonesia.com/nasional/20190207072914-12-367023/jejak-suap-bupati-kotim-yang-rugikan-negara-rp58-triliun): Kerugian Negara **Rp 5,8 Triliun dan 711 ribu dolar US**
-+ [=**Jiwasraya**= Pelanggaran tata kelolaan investasi produk Saving Plan Jiwasraya (**2019-12**)](https://keuangan.kontan.co.id/news/edan-per-agustus-2019-kerugian-negara-akibat-kasus-jiwasraya-rp-137-triliun?utm_source=kontan.co.id&utm_medium=OneSignal&utm_campaign=jiwasraya): Kerugian Negara **Rp 13,7 Triliun**
++ [=**Jiwasraya**= Pelanggaran tata kelolaan investasi produk Saving Plan Jiwasraya (**Desember 2019**)](https://keuangan.kontan.co.id/news/edan-per-agustus-2019-kerugian-negara-akibat-kasus-jiwasraya-rp-137-triliun?utm_source=kontan.co.id&utm_medium=OneSignal&utm_campaign=jiwasraya): Kerugian Negara **Rp 13,7 Triliun**
 
 <ins>**Korupsi diatas 100 Milyar**</ins>
 + [=**Simulator SIM**= Pengadaan Simulator Surat Izin Mengemudi Korlantas Polri (**2011**)](https://www.tempo.co/tag/korupsi-simulator-sim): Kerugian Negara **Rp 121 Milyar**
