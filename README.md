@@ -89,7 +89,7 @@ Repositori Generasi Anti Korupsi berisi data-data terkait dengan pencegahan dan 
 Disusun dan diurutkan berdasarkan tanggal dan tahun mulai terungkapnya korupsi.
 
 <ins>**Korupsi diatas 1 Triliun**</ins>
-+ [=**Soeharto**= Kasus dugaan korupsi Soeharto (16 Mei **1974**)](https://id.wikipedia.org/wiki/Kasus_dugaan_korupsi_Soeharto): Kerugian Negara **Rp 490 Triliun** ([Transparency International, 2004](https://issuu.com/transparencyinternational/docs/2004_gcr_politicalcorruption_en?mode=window&backgroundColor=%23222222))
++ [=**Soeharto**= Kasus dugaan korupsi Soeharto (Mei **1974**)](https://id.wikipedia.org/wiki/Kasus_dugaan_korupsi_Soeharto): Kerugian Negara **Rp 490 Triliun** ([Transparency International, 2004](https://issuu.com/transparencyinternational/docs/2004_gcr_politicalcorruption_en?mode=window&backgroundColor=%23222222))
 + [=**BLBI**= Bantuan Likuiditas Bank Indonesia (Desember **1998**)](https://id.wikipedia.org/wiki/Bantuan_Likuiditas_Bank_Indonesia): Kerugian Negara **Rp 138 Triliun**
 + [=**Century**= Aliran Dana Lembaga Penjamin Simpanan pada Bank Century (November **2009**)](https://id.wikipedia.org/wiki/Aliran_Dana_Lembaga_Penjamin_Simpanan_pada_Bank_Century): Kerugian Negara **Rp 7,4 Triliun**
 + [=**e-KTP**= Kartu Tanda Penduduk Elektronik (**2012**)](https://id.wikipedia.org/wiki/Kasus_korupsi_e-KTP): Kerugian Negara **Rp 2,3 Triliun**
@@ -103,7 +103,7 @@ Disusun dan diurutkan berdasarkan tanggal dan tahun mulai terungkapnya korupsi.
 + [=**Hambalang**= Pembangunan Pusat Olahraga Hambalang (**2012**)](https://news.detik.com/berita/d-1928176/kronologi-proyek-hambalang-dari-tahun-ke-tahun-): Kerugian Negara **Rp 700 Milyar**
 
 <ins>**Kasus Korupsi Besar Lainnya**</ins>
-+ [=**Pelindo II**= Pengadaan Quay Container Crane (QCC) di Pelindo II (15 Desember **2015**)](https://tirto.id/selidiki-kasus-korupsi-rj-lino-setelah-3-tahun-kpk-kami-hati-hati-eduJ): Kerugian Negara **Rp 50 Milyar**
++ [=**Pelindo II**= Pengadaan Quay Container Crane (QCC) di Pelindo II (Desember **2015**)](https://tirto.id/selidiki-kasus-korupsi-rj-lino-setelah-3-tahun-kpk-kami-hati-hati-eduJ): Kerugian Negara **Rp 50 Milyar**
 
 Deputi Gubernur BI | Sistem Komunikasi Radio Terpadu - Kementrian Kehutanan | Hibah Kereta Api Jepang - Kementerian Perhubungan | Pengadaan Alat Kesehatan - Kementerian Kesehatan | Kasus TPPU Tubagus Chaeri Wardana | dll.
 
