@@ -95,7 +95,7 @@ Disusun dan diurutkan berdasarkan tanggal dan tahun mulai terungkapnya korupsi.
 + [=**e-KTP**= Kartu Tanda Penduduk Elektronik (**2012**)](https://id.wikipedia.org/wiki/Kasus_korupsi_e-KTP): Kerugian Negara **Rp 2,3 Triliun**
 + [=**Kotawaringin Timur**= Ijin Usaha Tambang di Kotawaringin Timur (**2019**)](https://www.cnnindonesia.com/nasional/20190207072914-12-367023/jejak-suap-bupati-kotim-yang-rugikan-negara-rp58-triliun): Kerugian Negara **Rp 5,8 Triliun dan 711 ribu dolar US**
 + [=**Jiwasraya**= Pelanggaran tata kelolaan investasi produk Saving Plan Jiwasraya (Desember **2019**)](https://keuangan.kontan.co.id/news/edan-per-agustus-2019-kerugian-negara-akibat-kasus-jiwasraya-rp-137-triliun?utm_source=kontan.co.id&utm_medium=OneSignal&utm_campaign=jiwasraya): Kerugian Negara **Rp 13,7 Triliun**
-+ [=**Asabri**= Korupsi di PT Asuransi Sosial Angkatan Bersenjata Republik Indonesia (Asabri) dari yayasan yang dikumpulkan dari para prajurit TNI (Januari **2020**)](https://nasional.kompas.com/read/2020/01/10/20165821/mahfud-ungkap-dugaan-korupsi-rp-10-triliun-di-asabri-polri-nanti-kita-lihat): Kerugian Negara **Rp 10 Triliun**
++ [=**Asabri**= Korupsi di PT Asuransi Sosial Angkatan Bersenjata Republik Indonesia (Asabri) dari yayasan yang dikumpulkan dari para prajurit TNI (Januari **2020**)](https://www.cnbcindonesia.com/news/20200115071254-4-130052/bpk-ungkap-potensi-kerugian-negara-di-kasus-asabri-rp-16-t): Kerugian Negara **Rp 16 Triliun**
 
 <ins>**Korupsi diatas 100 Milyar**</ins>
 + [=**Simulator SIM**= Pengadaan Simulator Surat Izin Mengemudi Korlantas Polri (**2011**)](https://www.tempo.co/tag/korupsi-simulator-sim): Kerugian Negara **Rp 121 Milyar**
