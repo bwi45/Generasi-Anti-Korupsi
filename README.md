@@ -85,6 +85,12 @@ Repositori Generasi Anti Korupsi berisi data-data terkait dengan pencegahan dan 
 + [**Corruption Perceptions Index** - TI](https://www.transparency.org/research/cpi/overview): [2018](https://www.transparency.org/files/content/pages/2018_CPI_FullResults.zip) | [2017](https://files.transparency.org/content/download/2186/13760/file/CPI%202017%20global%20map%20and%20country%20results.pdf) | [2016](https://www.transparency.org/news/feature/corruption_perceptions_index_2016) | [2015](https://www.transparency.org/cpi2015) | [2014](https://www.transparency.org/cpi2014)
 + [**Survei Penilaian Integritas** - KPK](https://www.kpk.go.id/id/layanan-publik/informasi-publik/data-informasi-publik): [2018](https://www.kpk.go.id/images/01/Laporan-Ilmiah-Gabungan-SPI-2018---Indonesia.pdf) | [2017](https://www.kpk.go.id/images/pdf/Penyampaian-Hasil-SPI-2017.pdf) dan [**Survei Integritas Layanan Publik** - KPK](https://acch.kpk.go.id/id/ragam/integrito/survei-integritas-pelayanan-publik): [2015](https://acch.kpk.go.id/id/berkas/litbang/survei-integritas-sektor-publik-2015) | [2014](https://acch.kpk.go.id/id/berkas/litbang/survei-integritas-layanan-publik-tahun-2014) | [2013](https://acch.kpk.go.id/id/berkas/litbang/integritas-sektor-publik-indonesia-tahun-2013) | [2012](https://acch.kpk.go.id/id/berkas/litbang/survei-integritas-layanan-publik-tahun-2012)
 
+## Langkah Konkret untuk Open and Clean Governence (Viral Pertama Kali)
++ Transparansi Dana Desa 
+<p align="center"> 
+  <img src="https://github.com/Banyuwangi45/Generasi-Anti-Korupsi/blob/master/images/2020-Dana-Desa.jpg" width="100%">
+</p>
+
 ## Data Skandal Korupsi di Indonesia
 Disusun dan diurutkan berdasarkan tanggal dan tahun mulai terungkapnya korupsi.
 
