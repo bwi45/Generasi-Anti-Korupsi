@@ -86,9 +86,9 @@ Repositori Generasi Anti Korupsi berisi data-data terkait dengan pencegahan dan 
 + [**Survei Penilaian Integritas** - KPK](https://www.kpk.go.id/id/layanan-publik/informasi-publik/data-informasi-publik): [2018](https://www.kpk.go.id/images/01/Laporan-Ilmiah-Gabungan-SPI-2018---Indonesia.pdf) | [2017](https://www.kpk.go.id/images/pdf/Penyampaian-Hasil-SPI-2017.pdf) dan [**Survei Integritas Layanan Publik** - KPK](https://acch.kpk.go.id/id/ragam/integrito/survei-integritas-pelayanan-publik): [2015](https://acch.kpk.go.id/id/berkas/litbang/survei-integritas-sektor-publik-2015) | [2014](https://acch.kpk.go.id/id/berkas/litbang/survei-integritas-layanan-publik-tahun-2014) | [2013](https://acch.kpk.go.id/id/berkas/litbang/integritas-sektor-publik-indonesia-tahun-2013) | [2012](https://acch.kpk.go.id/id/berkas/litbang/survei-integritas-layanan-publik-tahun-2012)
 
 ## Langkah Konkret untuk Open and Clean Governence (Viral Pertama Kali)
-+ Transparansi Dana Desa 
++ Transparansi Dana Desa Cawet, Kecamatan Watukumpul, Kabupaten Pemalang, Provinsi Jawa Tengah.
 <p align="center"> 
-  <img src="https://github.com/Banyuwangi45/Generasi-Anti-Korupsi/blob/master/images/2020-Dana-Desa.jpg" width="100%">
+  <img src="https://github.com/Banyuwangi45/Generasi-Anti-Korupsi/blob/master/images/2020-Dana-Desa.jpg" width="70%">
 </p>
 
 ## Data Skandal Korupsi di Indonesia
