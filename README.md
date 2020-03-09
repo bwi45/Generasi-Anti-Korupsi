@@ -107,6 +107,7 @@ Disusun dan diurutkan berdasarkan tanggal dan tahun mulai terungkapnya korupsi.
 + [=**Simulator SIM**= Pengadaan Simulator Surat Izin Mengemudi Korlantas Polri (**2011**)](https://www.tempo.co/tag/korupsi-simulator-sim): Kerugian Negara **Rp 121 Milyar**
 + [=**Rolls-Royce - Garuda Indonesia**= Pengadaan Pesawat dan Mesin Pesawat dari Airbus S.A.S dan Rolls-Royce P.L.C pada PT Garuda Indonesia (**2011**)](https://www.law-justice.co/artikel/68841/pusaran-suap-rolls-royce-di-garuda/): Kerugian Negara **Rp 630 Milyar**
 + [=**Hambalang**= Pembangunan Pusat Olahraga Hambalang (**2012**)](https://news.detik.com/berita/d-1928176/kronologi-proyek-hambalang-dari-tahun-ke-tahun-): Kerugian Negara **Rp 700 Milyar**
++ [=**PLN Batubara**= Pengadaan Batubara antara PT. PLN Batubara dengan PT. Tansri Madjid Energi(Oktober **2019**)](https://katadata.co.id/berita/2019/11/15/korupsi-pln-batubara-kejaksaan-sita-uang-kokos-jiang-rp-477-miliar): Kerugian Negara **Rp 477 Milyar**
 
 <ins>**Kasus Korupsi Besar Lainnya**</ins>
 + [=**Pelindo II**= Pengadaan Quay Container Crane (QCC) di Pelindo II (Desember **2015**)](https://tirto.id/selidiki-kasus-korupsi-rj-lino-setelah-3-tahun-kpk-kami-hati-hati-eduJ): Kerugian Negara **Rp 50 Milyar**
